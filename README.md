@@ -1,3 +1,3 @@
-use command 'npm run dev' to start launching the ProcessBud ElectronApp
+use command 'npm run dev' to start launching the ProcessBud React ElectronApp
 
-For the React version go to https://gitlab.com/bearnithi11/process-bud
+For the React alone version go to https://gitlab.com/bearnithi11/process-bud
