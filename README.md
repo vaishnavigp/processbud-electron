@@ -1,1 +1,1 @@
-use command 'npm run dev' to start launching the ReactElectronApp
+use command 'npm run dev' to start launching the ProcessBud ReactElectronApp
